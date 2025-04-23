@@ -1,7 +1,7 @@
 # BUA451-FinalProject-ThomasBartolotta
 
 ## Summary
-This project explores [brief description of the dataset/topic] using SQL and Python for data analysis and modeling.
+This project explores consumer data about Citibike usage in NYC using SQL and Python for data analysis and modeling.
 
 ##  Data
 The data comes from BigQuery's public dataset: `[dataset name]`
@@ -10,6 +10,7 @@ The data comes from BigQuery's public dataset: `[dataset name]`
 - SQL querying with BigQuery
 - Data wrangling and visualization in Python (Pandas, Matplotlib, Plotly)
 - [Type of Model] predictive modeling using [Model type]
+- Github for doccumentation and organization
 
 ##  Key Insights
 1. [Insight #1]
