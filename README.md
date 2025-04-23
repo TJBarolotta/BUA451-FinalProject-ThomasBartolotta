@@ -4,7 +4,7 @@
 This project explores consumer data about Citibike usage in NYC using SQL and Python for data analysis and modeling.
 
 ##  Data
-The data comes from BigQuery's public dataset: `[dataset name]`
+The data comes from BigQuery's public dataset: `[new_york_citibike.citibike_trips]`
 
 ##  Methods
 - SQL querying with BigQuery
@@ -17,7 +17,6 @@ The data comes from BigQuery's public dataset: `[dataset name]`
 2. [Insight #2]
 
 ##  Files
-- `FinalProject.ipynb`: Jupyter Notebook with all analysis and modeling
+- `BUA451-FinalProject-ThomasBartolotta-CitiBike Analysis.ipynb`: Jupyter Notebook with all analysis and modeling
 - `README.md`: This file
-- [Any other files you include]
 
