@@ -18,6 +18,6 @@ The data comes from BigQuery's public dataset: `[new_york_citibike.citibike_trip
 3. Logistic regression successfully predicted rider type with an F1-score of ~0.85, after accounting for class imbalance, using behavioral and demographic features.
 
 ##  Files
-- `BUA451-FinalProject-ThomasBartolotta-CitiBike Analysis.ipynb`: Jupyter Notebook with all analysis and modeling
+- `BUA451-FinalProject-ThomasBartolotta-CitiBike Analysis (FINAL VERSION).ipynb`: Jupyter Notebook with all analysis and modeling
 - `README.md`: This file
 
